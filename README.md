@@ -24,7 +24,7 @@ The Weather App presents various opportunities for improvement and expansion:
 
 ## :link: Link
 
-### :star: [Weather App](your-link-here](https://super-basic-weather-app.netlify.app/) :star:
+### :star: [Weather App](https://super-basic-weather-app.netlify.app/) :star:
 
 
 ## :page_with_curl: Licence
