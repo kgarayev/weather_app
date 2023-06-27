@@ -1,5 +1,13 @@
 # :partly_sunny: Weather App
 
+## :computer: Tech Used
+
+- Programming Languages: JavaScript (Vanilla)
+- 3rd Party Libraries: Axios
+- Web Development: HTML, CSS
+- Version Control: Git
+- API: Weather API
+
 ## :page_facing_up: Overview
 
 The Weather App is a simple frontend application built using Vanilla JavaScript. It provides users with real-time weather data based on their geolocation. This project was developed within a limited timeframe of 2 hours, focusing on the core functionalities and asynchronous data retrieval from the weather API.
